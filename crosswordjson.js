@@ -755,4 +755,7 @@ function stopAndRecordBest() {
   }
 }
 
+function homeRedirect() {
+  window.location.href = "http://dailytrojan.com/games/";
+}
 loadCrosswordData();
