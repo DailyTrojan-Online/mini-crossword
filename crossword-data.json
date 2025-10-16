@@ -10,8 +10,8 @@
       { "number": 1, "clue": "Items that typically come in decks", "position": [0, 0] },
       { "number": 6, "clue": "Partner of Cowlings at USC Village", "position": [1, 0] },
       { "number": 7, "clue": "Fancy type of parking", "position": [2, 0] },
-      { "number": 8, "clue": "“____ the love of my life!” -Your delulu friend debriefing last night’s party", "position": [4, 0] },
-      { "number": 9, "clue": "Flirtatiously shy", "position": [5, 0] }
+      { "number": 8, "clue": "“____ the love of my life!” -Your delulu friend debriefing last night’s party", "position": [3, 0] },
+      { "number": 9, "clue": "Flirtatiously shy", "position": [4, 0] }
     ],
     "downClues": [
       { "number": 1, "clue": "Palindromic Honda model", "position": [0, 0] },
