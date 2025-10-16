@@ -1,19 +1,23 @@
 {
     "grid": [
-      ["T", "R", "O", "J", "A", "N"],
-      [null, "E", null, null, null, "E"],
-      ["E", "G", "G", null, null, "W"],
-      [null, "A", null, null, null, "S"],
-      ["S", "L", "A", "Y", null, null]
+      ["C", "A", "R", "D", "S"],
+      ["I", "L", "I", "U","M"],
+      ["V", "A", "L", "E", "T"],
+      ["I", "M", "E", "T", null],
+      ["C", "O", "Y", null, null]
     ],
     "acrossClues": [
-      { "number": 1, "clue": "A USC student is a...", "position": [0, 0] },
-      { "number": 3, "clue": "Chicken baby", "position": [2, 0] },
-      { "number": 5, "clue": "Gen Z slang for saying impressive", "position": [4, 0] }
+      { "number": 1, "clue": "Items that typically come in decks", "position": [0, 0] },
+      { "number": 6, "clue": "Partner of Cowlings at USC Village", "position": [1, 0] },
+      { "number": 7, "clue": "Fancy type of parking", "position": [2, 0] },
+      { "number": 8, "clue": "“____ the love of my life!” -Your delulu friend debriefing last night’s party", "position": [4, 0] },
+      { "number": 9, "clue": "Flirtatiously shy", "position": [5, 0] }
     ],
     "downClues": [
-      { "number": 2, "clue": "A synonym for royal", "position": [0, 1] },
-      { "number": 6, "clue": "Daily Trojan is a ---- source", "position": [0, 5] }
+      { "number": 1, "clue": "Palindromic Honda model", "position": [0, 0] },
+      { "number": 2, "clue": "Battle to be “remembered” from the Texas Revolution", "position": [0, 1] },
+      { "number": 3, "clue": "Lincoln of Trojan football", "position": [0, 2] },
+      { "number": 4, "clue": "Two-person performance", "position": [0, 3] },
+      { "number": 5, "clue": "Japanese RPG series published by Atlus", "position": [0, 4] }
     ]
   }
-  
